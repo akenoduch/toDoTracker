@@ -78,6 +78,9 @@ Firebase para autenticação e armazenamento de dados em tempo real.
 Moment.js para manipulação de datas.
 Outras bibliotecas para melhorar a UX/UI.
 
+## Download APK
+https://expo.dev/artifacts/eas/5inErMNdT6yCkWWmn3Gw6y.apk
+
 ## Autor
 Felipe Vilemondes - Desenvolvedor do projeto TodoTracker
 
