@@ -61,19 +61,14 @@ TodoTracker é um aplicativo de rastreamento de tarefas construído com React Na
 Para começar a usar o TodoTracker, clone o repositório e instale as dependências:
 
 ```bash
-Copy code
 git clone https://github.com/akenoduch/toDoTracker.git
-cd TodoTracker
+cd toDoTracker
 npm install
 ```
 ## Execução
-Para executar o aplicativo em seu ambiente local, use um dos seguintes comandos:
+Para executar o aplicativo em seu ambiente local, use o seguinte comando:
 ```bash
-Copy code
-npm start        # Inicia o servidor de desenvolvimento Expo
-npm run android  # Inicia o aplicativo no Android
-npm run ios      # Inicia o aplicativo no iOS
-npm run web      # Inicia o aplicativo na Web
+npx expo start
 ```
 
 ## Dependências
@@ -82,6 +77,9 @@ Expo para o ambiente de desenvolvimento e testes.
 Firebase para autenticação e armazenamento de dados em tempo real.
 Moment.js para manipulação de datas.
 Outras bibliotecas para melhorar a UX/UI.
+
+## Download APK
+https://expo.dev/artifacts/eas/noF7RYG9Z7ZTM3zKcUeZAW.apk
 
 ## Autor
 Felipe Vilemondes - Desenvolvedor do projeto TodoTracker
