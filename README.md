@@ -79,7 +79,7 @@ Moment.js para manipulação de datas.
 Outras bibliotecas para melhorar a UX/UI.
 
 ## Download APK
-https://expo.dev/artifacts/eas/5inErMNdT6yCkWWmn3Gw6y.apk
+https://expo.dev/artifacts/eas/noF7RYG9Z7ZTM3zKcUeZAW.apk
 
 ## Autor
 Felipe Vilemondes - Desenvolvedor do projeto TodoTracker
