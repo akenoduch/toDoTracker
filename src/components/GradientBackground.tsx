@@ -2,7 +2,7 @@ import React from 'react';
 import { LinearGradient } from 'expo-linear-gradient';
 import { StyleSheet, Dimensions } from 'react-native';
 
-const { width, height } = Dimensions.get('window');
+const { width } = Dimensions.get('window');
 
 export const GradientBackground = () => {
   return (
@@ -20,7 +20,7 @@ export const GradientBackground = () => {
 const styles = StyleSheet.create({
   gradient: {
     width,
-    height,
+    height:'100%' ,
     position: 'absolute',
   },
 });

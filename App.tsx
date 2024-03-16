@@ -41,7 +41,7 @@ export default function App() {
   }
 
   return (
-    <SafeAreaProvider>
+    <SafeAreaProvider style={{flex: 1}}>
       <NavigationContainer>
         <StackNavigator isSignedIn={isSignedIn} />
       </NavigationContainer>

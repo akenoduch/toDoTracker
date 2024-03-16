@@ -144,7 +144,7 @@ const HomeScreen: FunctionComponent = () => {
       handlePulseAnimation();
     }
   }, [cardsData]);
-
+  
   return (
     <>
     <StatusBar style="light" backgroundColor="#272430" />
