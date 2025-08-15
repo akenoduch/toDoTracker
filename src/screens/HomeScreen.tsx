@@ -124,7 +124,7 @@ const HomeScreen: FunctionComponent = () => {
     Animated.loop(
       Animated.sequence([
         Animated.timing(pulseAnim, {
-          toValue: 1.1,
+          toValue: 4,
           duration: 900,
           easing: Easing.inOut(Easing.ease),
           useNativeDriver: true,
